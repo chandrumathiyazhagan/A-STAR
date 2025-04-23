@@ -280,3 +280,5 @@ Path found: ['A', 'E', 'D', 'G']
 
 ![Screenshot 2025-04-21 090055](https://github.com/user-attachments/assets/a1b40757-846f-4b54-b127-efe7f565ed98)
 
+## RESULT:
+ Implementing A * Search algorithm for a Graph using Python 3. is executed successfully.
